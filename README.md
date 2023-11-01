@@ -62,7 +62,7 @@
 
 ### Backend Project <a name="backend-project"></a>
 
-The backend project can be found in the following link: [Hello Rails Backend(https://github.com/Kidd254/Hello_Rails_Back_End/pull/1)
+The backend project can be found in the following link: [Hello Rails Backend](https://github.com/Kidd254/Hello_Rails_Back_End/pull/1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
