@@ -3,9 +3,8 @@ import React, { useEffect } from 'react';
 import { fetchGreetings } from '../redux/greetings/greetingsSlice';
 
 function Greeting() {
-  console.log('Greeting component is rendering.');
   const { greetings, isLoading, error } = useSelector(
-    (state) => state.greetings
+    (state) => state.greetings,
   );
   const dispatchActions = useDispatch();
 
