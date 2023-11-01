@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+
 <div align="center">
   <h1><b>Hello React Frontend</b></h1>
 </div>
@@ -10,7 +11,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-    - [Backend Project  ](#backend-project--)
+    - [Backend Project ](#backend-project--)
   - [💻 Getting Started ](#-getting-started-)
     - [Setup](#setup)
     - [Prerequisites](#prerequisites)
@@ -59,9 +60,9 @@
 
 ---
 
-### Backend Project  <a name="backend-project"></a>
+### Backend Project <a name="backend-project"></a>
 
-The backend project can be found in the following link: [Hello Rails Backend](https://github.com/NitBravoA92/hello-rails-back-end.git)
+The backend project can be found in the following link: [Hello Rails Backend](https://github.com/Kidd254/Hello_Rails_Back_End)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,6 +126,7 @@ A message similar to this will be displayed in the console:
 When the above message appears, press the `Y` key to allow the server to run the application on another available port (usually port 3001).
 
 When everything is ready, this message should appear in the console:
+
 - `compiled successfully!`
 
 Open the main URL: [http://localhost:3001](http://localhost:3001) to see it the app running in your browser.
@@ -134,11 +136,13 @@ The page will reload when you make changes.
 You may also see any CSS and JS linters errors in the console running the following commands:
 
 CSS Linter
+
 ```sh
   npx stylelint "**/*.{css,scss}"
 ```
 
 Javascript Linter
+
 ```sh
   npx eslint "**/*.{js,jsx}"
 ```
@@ -200,6 +204,5 @@ I would also like to thank my Microverse teammates for their support. They have 
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <a name="readme-top"></a>
